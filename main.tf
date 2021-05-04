@@ -1,6 +1,6 @@
 provider "google" {
    project     = "evolve-3-workstream"
-  region      = "us-central1-a"
+  
 }
 
 resource "google_container_cluster" "default" {
