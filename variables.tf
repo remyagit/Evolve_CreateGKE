@@ -7,7 +7,7 @@ variable "project" {
 }
 
 variable "location" {
-  default = "asia-south1"
+  default = "asia-east1"
 }
 
 variable "initial_node_count" {
